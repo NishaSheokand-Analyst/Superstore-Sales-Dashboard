@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+## Dashboard Preview
+![Dashboard](https://github.com/NishaSheokand-Analyst/Superstore-Sales-Dashboard/blob/main/Dashboard%20Image.png?raw=true)
+
 This project analyzes Superstore sales data using Power BI.
 
 ## Tools Used
